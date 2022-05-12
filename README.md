@@ -28,3 +28,5 @@ Call the post method of http://127.0.0.1:8000/api/v1/balance with a body like be
     "address": "0x742d35Cc6634C0532925a3b844Bc454e4438f44e"\
 }
 
+Application is also available on https://balance.gharghi.com/. So, you can call it by https://balance.gharghi.com/api/v1/balance
+
